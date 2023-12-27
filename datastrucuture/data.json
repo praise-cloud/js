@@ -1,0 +1,12 @@
+
+{
+    "name": "Praise",
+    "age": 10,
+    "email": "praise@gmail.com",
+    "isSubscribe": true,
+    "hobbies": "Racing",
+    "address": {
+        "city": "New Yourk",
+        "idk": true
+    }
+}
