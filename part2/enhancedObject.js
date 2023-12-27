@@ -1,0 +1,1 @@
+//ENhanced object literals,they are set of enhancements to the syntax for definingobjects in javascript, it makes it more convenient and concise to define object properties and methods in javascript, it was also introduced ECMASCript 6
