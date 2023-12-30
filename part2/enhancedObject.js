@@ -69,3 +69,26 @@ let lib = {
 
 console.log(lib.sum(2,3));
 console.log(lib.mult(2,3));
+
+ //es5 
+// function getPersionES5(name, age, height){
+//     return{
+//         name: name,
+//         age: age,
+//         height: height,
+//     };
+// }
+
+// getPersionES5("prasie", 20, 200);
+
+//ES6
+
+function getPersionES6(name, age, height){
+    return {
+        name,
+        age,
+        height,
+    };
+}
+
+console.log(getPersionES6("prasie", 20, 200));
