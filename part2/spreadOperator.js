@@ -16,3 +16,5 @@
  const anotherStrNums = ['four', 'five', 'six'];
  const main = [...strNums, ...anotherStrNums]
  console.log(main);
+
+//
