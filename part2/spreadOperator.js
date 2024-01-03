@@ -52,7 +52,7 @@ function userProfile(x,...userData){
    console.log(userData);
 }
 
-userProfile("PRAISE", 19, "Programming", "football");
+userProfile("Praise", 19, "Programming", "football");
 
 function person(firstName, lastName, ...Hobbies) {
    console.log("FIrst Name: ", firstName);
