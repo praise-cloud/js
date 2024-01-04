@@ -61,7 +61,7 @@ function person(firstName, lastName, ...Hobbies) {
    console.log("Hobbies: ", Hobbies);
 }
 
-person("Praise", "GEorgewill", "playing games", "Watching Animes", "Programming", "Studying");
+person("Praise", "Georgewill", "playing games", "Watching Animes", "Programming", "Studying");
 
 // Class work
 console.log("\n Class work \n");
