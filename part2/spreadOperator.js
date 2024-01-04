@@ -17,6 +17,7 @@
  const main = [...strNums, ...anotherStrNums]
  console.log(main);
 
+//
  //Object with spread operator
  const obj1 = {x:12, y:13, z:14};
  const obj2 = {h:12, f:13, k:14};
@@ -71,3 +72,4 @@ function unLimited(...limited){
 }
 
 unLimited("GAMES", "FISH", "BOYS","Movies","laptops", "Money");
+
